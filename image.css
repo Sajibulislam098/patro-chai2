@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    border-bottom: 7px solid tomato;
+    width: 600px;
+    margin-left: 100px;
+}
+
+.images {
+    width: 100%;
+    border-bottom: 7px solid tomato;
+    margin-bottom: 50px;
+    padding: 50px;
+    text-align: center;
+}
